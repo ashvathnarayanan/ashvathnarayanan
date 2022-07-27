@@ -8,7 +8,7 @@ Ashvath here
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)" /></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 I started off with development to primarily solve my day to day problems. This slowly turned into a passion and now a profession ♥. 
