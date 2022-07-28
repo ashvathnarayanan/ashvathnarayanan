@@ -10,10 +10,9 @@ Ashvath here
 
 <p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-I started off with development to primarily solve my day to day problems. This slowly turned into a passion and now a profession ♥. 
-### 🛠 &nbsp;Languages and Tools :
+### I am a Full Stack Developer from India. I started off with development to primarily solve my day to day problems. This slowly turned into a passion and now a profession ♥.I have developed applications that will improve and automate student lifestyle. My goal is to develop for a larger audience.
 
+### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
