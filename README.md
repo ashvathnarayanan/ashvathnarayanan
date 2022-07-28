@@ -6,11 +6,11 @@ Ashvath here
 <p align="center">
 <a href="https://www.linkedin.com/in/ashvathc"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+### I am a Full Stack Developer from India. I started off with development to primarily solve my day to day problems. This slowly turned into a passion and now a profession ♥.I have developed applications that will improve and automate student lifestyle. My goal is to develop for a larger audience.
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></p>
-
-### I am a Full Stack Developer from India. I started off with development to primarily solve my day to day problems. This slowly turned into a passion and now a profession ♥.I have developed applications that will improve and automate student lifestyle. My goal is to develop for a larger audience.
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
